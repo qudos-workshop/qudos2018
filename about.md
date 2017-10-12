@@ -1,7 +1,9 @@
 ---
 title: About QUDOS
-redirect_to:
-- https://qudos-workshop.github.io
 ---
 
-
+<html>
+	<head>
+		<meta http-equiv="refresh" content="0; url=http://qudos-workshop.org/">
+	</head>
+</html>
