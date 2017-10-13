@@ -15,6 +15,11 @@ permalink: /organization/
 [Andre van Hoorn](http://www.iste.uni-stuttgart.de/rss/people/vanhoorn/), University of Stuttgart, Germany  
 [Philipp Leitner](http://www.chalmers.se/en/staff/Pages/philipp-leitner.aspx), Chalmers | University of Gothenburg, Sweden
 
+#### Web Chair
+
+[Teerat Pitakrat](http://www.iste.uni-stuttgart.de/rss/people/pitakrat.html), University of Stuttgart, Germany  
+
+
 ### Program Committee
 
 (to be announced)
