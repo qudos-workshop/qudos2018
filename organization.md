@@ -5,7 +5,7 @@ permalink: /organization/
 ---
 #### Program Committee Chairs
 
-[Lubomír Bulej](http://d3s.mff.cuni.cz/~bulej/), Charles University, Czech Republic 
+[Lubomír Bulej](http://d3s.mff.cuni.cz/~bulej/), Charles University, Czech Republic  
 [Antonio Filieri](https://www.antonio.filieri.name/), Imperial College London, United Kingdom
 
 #### Steering Comittee
