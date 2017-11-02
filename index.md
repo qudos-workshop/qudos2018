@@ -7,6 +7,8 @@ layout: page
 
 #### 4th International Workshop on Quality-Aware DevOps (QUDOS 2018)
 
+QUDOS 2018 will be held on April 9 or 10, 2018 in Berlin, Germany and will be co-located with the [9th ACM/SPEC International Conference on Performance Engineering (ICPE 2018)](https://icpe2018.spec.org/).
+
 The QUDOS workshop provides a forum for experts from academia and industry to present and discuss novel quality-aware methods, practices and tools for DevOps.
 
 DevOps extends the agile development principles to include the full stack of software services, from design to execution, enabling and promoting collaboration of operations, quality assurance, and development engineers throughout the entire service lifecycle. Ultimately, DevOps is a process that enables faster releases of a better product to the end user. DevOps encompasses a set of values, principles, methods, practices, and tools, to accelerate software delivery to the customer by means of infrastructure as code, continuous integration and deployment, automated testing and monitoring, or new architectural styles such as microservices.
