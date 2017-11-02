@@ -5,12 +5,11 @@ permalink: /important_dates/
 ---
 
 |-------|--------|
-| Full paper submission deadline | TBD |
-| Tool paper abstract deadline (mandatory) | TBD |
-| Tool paper submission deadline | TBD |
-| Paper notification | TBD |
-| Camera-ready deadline | TBD |
-| Workshop date | TBD |
+| Full paper submission deadline | Dec 20, 2017 (AoE) |
+| Tool paper submission deadline | Dec 20, 2017 (AoE) |
+| Paper notification | Feb 09, 2018 |
+| Camera-ready deadline | Feb 18, 2018 |
+| Workshop date | April 9 or 10, 2018 |
 
 <style>
 table{
