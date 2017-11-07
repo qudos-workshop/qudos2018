@@ -41,3 +41,4 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+plugins: ['jekyll-twitter-plugin']
