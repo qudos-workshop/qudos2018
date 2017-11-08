@@ -19,5 +19,10 @@ The QUDOS workshop aims to provide a venue for advances in the state of the art 
 
 QUDOS 2018 is technically sponsored by the Research Group (RG) and the [RG DevOps Performance Working Group](https://research.spec.org/working-groups/devops-performance-working-group.html) of the [Standard Performance Evaluation Corporation (SPEC RG)](http://research.spec.org/), and by the consortium of the [EU project DICE](http://dice-h2020.eu/). The workshop is supported by the [IFIP Working Group on Service Oriented Systems](http://ifip-wg-sos.deib.polimi.it/), and by the [DFG Priority Programme 1593 (SPP1593) "Design For Future - Managed Software Evolution"](http://www.dfg-spp1593.de/), funded by the German Research Foundation (DFG).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Call for papers for International Workshop on Quality-Aware DevOps (QUDOS 2018). <a href="https://twitter.com/hashtag/SPEC?src=hash&amp;ref_src=twsrc%5Etfw">#SPEC</a> <a href="https://twitter.com/hashtag/DevOps?src=hash&amp;ref_src=twsrc%5Etfw">#DevOps</a> <a href="https://t.co/7MFQ3atoBT">https://t.co/7MFQ3atoBT</a> <a href="https://t.co/Gi9bLndAU1">pic.twitter.com/Gi9bLndAU1</a></p>&mdash; SPEC (@spec_perf) <a href="https://twitter.com/spec_perf/status/927624159915634688?ref_src=twsrc%5Etfw">November 6, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline"
+href="https://twitter.com/qudos_workshop"
+data-width="400"
+data-chrome="nofooter noborders"
+data-tweet-limit="3">
+Tweets by @qudos_workshop
+</a>
