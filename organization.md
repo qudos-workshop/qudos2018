@@ -26,6 +26,7 @@ permalink: /organization/
  Cor-Paul Bezemer, Queen's University, Canada  
  Jürgen Cito, University of Zurich, Switzerland  
  Nikolas Herbst, University of Würzburg, Germany  
+ Klaus-Dieter Lange, Hewlett Packard Enterprise, USA
  Marin Litoiu, York University, Canada  
  Claus Pahl, Free University of Bozen-Bolzano, Italy  
  Diego Pérez-Palacín, University of Zaragoza, Spain  
