@@ -21,5 +21,17 @@ permalink: /organization/
 
 
 ### Program Committee
+(only confirmed members; additional invitations pending)
 
-(to be announced)
+ Cor-Paul Bezemer, Queen's University, Canada
+ Jürgen Cito, University of Zurich, Switzerland
+ Nikolas Herbst, University of Würzburg, Germany
+ Marin Litoiu, York University, Canada
+ Claus Pahl, Free University of Bozen-Bolzano, Italy
+ Diego Pérez-Palacín, University of Zaragoza, Spain
+ Weiyi Shang, Concordia University, Canada
+ Damian Andrew Tamburri, Politecnico di Milano, Italy
+ Asser Tantawi, IBM Research, USA
+ Catia Trubiani, Gran Sasso Science Institute, Italy
+ Erik Wilde, CA API Academy, USA
+ 
