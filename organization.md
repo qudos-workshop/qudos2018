@@ -23,16 +23,16 @@ permalink: /organization/
 ### Program Committee
 (only confirmed members; additional invitations pending)
 
- Cor-Paul Bezemer, Queen's University, Canada\s\s
- Jürgen Cito, University of Zurich, Switzerland\s\s
- Nikolas Herbst, University of Würzburg, Germany\s\s
- Klaus-Dieter Lange, Hewlett Packard Enterprise, USA\s\s
- Marin Litoiu, York University, Canada\s\s
- Claus Pahl, Free University of Bozen-Bolzano, Italy\s\s
- Diego Pérez-Palacín, University of Zaragoza, Spain\s\s
- Josef Spillner, ZHAW Winterthur, Switzerland\s\s
- Weiyi Shang, Concordia University, Canada\s\s
- Damian Andrew Tamburri, Politecnico di Milano, Italy\s\s
- Asser Tantawi, IBM Research, USA\s\s
- Catia Trubiani, Gran Sasso Science Institute, Italy\s\s
- Erik Wilde, CA API Academy, USA\s\s
+ Cor-Paul Bezemer, Queen's University, Canada  
+ Jürgen Cito, University of Zurich, Switzerland  
+ Nikolas Herbst, University of Würzburg, Germany  
+ Klaus-Dieter Lange, Hewlett Packard Enterprise, USA  
+ Marin Litoiu, York University, Canada  
+ Claus Pahl, Free University of Bozen-Bolzano, Italy  
+ Diego Pérez-Palacín, University of Zaragoza, Spain  
+ Josef Spillner, ZHAW Winterthur, Switzerland  
+ Weiyi Shang, Concordia University, Canada  
+ Damian Andrew Tamburri, Politecnico di Milano, Italy  
+ Asser Tantawi, IBM Research, USA  
+ Catia Trubiani, Gran Sasso Science Institute, Italy  
+ Erik Wilde, CA API Academy, USA  
