@@ -24,6 +24,7 @@ permalink: /organization/
 (only confirmed members; additional invitations pending)
 
  Cor-Paul Bezemer, Queen's University, Canada  
+ Andreas Brunnert, RETIT, Germany  
  Jürgen Cito, University of Zurich, Switzerland  
  Nikolas Herbst, University of Würzburg, Germany  
  Klaus-Dieter Lange, Hewlett Packard Enterprise, USA  
