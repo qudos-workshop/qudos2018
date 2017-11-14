@@ -27,6 +27,7 @@ permalink: /organization/
  Andreas Brunnert, RETIT, Germany  
  Jürgen Cito, University of Zurich, Switzerland  
  Nikolas Herbst, University of Würzburg, Germany  
+ Geir Horn, University of Oslo, Norway  
  Klaus-Dieter Lange, Hewlett Packard Enterprise, USA  
  Marin Litoiu, York University, Canada  
  Claus Pahl, Free University of Bozen-Bolzano, Italy  
