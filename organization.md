@@ -8,7 +8,7 @@ permalink: /organization/
 [Lubomír Bulej](http://d3s.mff.cuni.cz/~bulej/), Charles University, Czech Republic  
 [Antonio Filieri](https://www.antonio.filieri.name/), Imperial College London, United Kingdom
 
-#### Steering Comittee
+#### Steering Committee
 
 [Danilo Ardagna](http://ardagna.faculty.polimi.it/), Politecnico di Milano, Italy  
 [Giuliano Casale](http://wp.doc.ic.ac.uk/gcasale/), Imperial College London, UK  
