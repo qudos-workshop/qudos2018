@@ -30,6 +30,7 @@ permalink: /organization/
  Geir Horn, University of Oslo, Norway  
  Klaus-Dieter Lange, Hewlett Packard Enterprise, USA  
  Marin Litoiu, York University, Canada  
+ Zoltán Adam Mann, University of Duisburg-Essen, Germany  
  Claus Pahl, Free University of Bozen-Bolzano, Italy  
  Diego Pérez-Palacín, University of Zaragoza, Spain  
  Josef Spillner, ZHAW Winterthur, Switzerland  
