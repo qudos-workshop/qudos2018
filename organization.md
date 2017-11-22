@@ -23,6 +23,7 @@ permalink: /organization/
 ### Program Committee
 (only confirmed members; additional invitations pending)
 
+ Alberto Avritzer, Sonatype, USA  
  Cor-Paul Bezemer, Queen's University, Canada  
  Andreas Brunnert, RETIT, Germany  
  Jürgen Cito, University of Zurich, Switzerland  
@@ -30,6 +31,7 @@ permalink: /organization/
  Geir Horn, University of Oslo, Norway  
  Klaus-Dieter Lange, Hewlett Packard Enterprise, USA  
  Marin Litoiu, York University, Canada  
+ Zhen Ming (Jack) Jiang, York University, Canada  
  Zoltán Adam Mann, University of Duisburg-Essen, Germany  
  Claus Pahl, Free University of Bozen-Bolzano, Italy  
  Diego Pérez-Palacín, University of Zaragoza, Spain  
