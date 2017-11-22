@@ -40,4 +40,5 @@ permalink: /organization/
  Damian Andrew Tamburri, Politecnico di Milano, Italy  
  Asser Tantawi, IBM Research, USA  
  Catia Trubiani, Gran Sasso Science Institute, Italy  
+ Petr Tůma, Charles University, Czech Republic  
  Erik Wilde, CA API Academy, USA  
