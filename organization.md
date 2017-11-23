@@ -23,9 +23,11 @@ permalink: /organization/
 ### Program Committee
 (only confirmed members; additional invitations pending)
 
+ Varsha Apte, IIT Bombay, India  
  Alberto Avritzer, Sonatype, USA  
  Cor-Paul Bezemer, Queen's University, Canada  
  Andreas Brunnert, RETIT, Germany  
+ David Carrera, Universitat Politècnica de Catalunya, Spain  
  Jürgen Cito, University of Zurich, Switzerland  
  Nikolas Herbst, University of Würzburg, Germany  
  Geir Horn, University of Oslo, Norway  
@@ -34,12 +36,14 @@ permalink: /organization/
  Zhen Ming (Jack) Jiang, York University, Canada  
  Zoltán Adam Mann, University of Duisburg-Essen, Germany  
  Claus Pahl, Free University of Bozen-Bolzano, Italy  
- Dorina Petriu, Carleton University, Canada  
+ Cesare Pautasso, University of Lugano, Switzerland  
  Diego Pérez-Palacín, University of Zaragoza, Spain  
+ Dorina Petriu, Carleton University, Canada  
  Josef Spillner, ZHAW Winterthur, Switzerland  
  Weiyi Shang, Concordia University, Canada  
  Damian Andrew Tamburri, Politecnico di Milano, Italy  
  Asser Tantawi, IBM Research, USA  
  Catia Trubiani, Gran Sasso Science Institute, Italy  
  Petr Tůma, Charles University, Czech Republic  
+ Ingo Weber, NICTA, Australia  
  Erik Wilde, CA API Academy, USA  
