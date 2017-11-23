@@ -34,6 +34,7 @@ permalink: /organization/
  Zhen Ming (Jack) Jiang, York University, Canada  
  Zoltán Adam Mann, University of Duisburg-Essen, Germany  
  Claus Pahl, Free University of Bozen-Bolzano, Italy  
+ Dorina Petriu, Carleton University, Canada  
  Diego Pérez-Palacín, University of Zaragoza, Spain  
  Josef Spillner, ZHAW Winterthur, Switzerland  
  Weiyi Shang, Concordia University, Canada  
