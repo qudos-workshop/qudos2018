@@ -39,6 +39,7 @@ permalink: /organization/
  Cesare Pautasso, University of Lugano, Switzerland  
  Diego Pérez-Palacín, University of Zaragoza, Spain  
  Dorina Petriu, Carleton University, Canada  
+ Meikel Poess, Oracle, USA  
  Josef Spillner, ZHAW Winterthur, Switzerland  
  Weiyi Shang, Concordia University, Canada  
  Damian Andrew Tamburri, Politecnico di Milano, Italy  
