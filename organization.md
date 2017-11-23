@@ -21,7 +21,6 @@ permalink: /organization/
 
 
 ### Program Committee
-(only confirmed members; additional invitations pending)
 
  Varsha Apte, IIT Bombay, India  
  Alberto Avritzer, Sonatype, USA  
