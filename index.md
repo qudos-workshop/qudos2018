@@ -7,7 +7,7 @@ layout: page
 
 #### 4th International Workshop on Quality-Aware DevOps (QUDOS 2018)
 
-QUDOS 2018 will be held on April 9 or 10, 2018 in Berlin, Germany and will be co-located with the [9th ACM/SPEC International Conference on Performance Engineering (ICPE 2018)](https://icpe2018.spec.org/).
+QUDOS 2018 will be held on April 10, 2018 in Berlin, Germany and will be co-located with the [9th ACM/SPEC International Conference on Performance Engineering (ICPE 2018)](https://icpe2018.spec.org/).
 
 The QUDOS workshop provides a forum for experts from academia and industry to present and discuss novel quality-aware methods, practices and tools for DevOps.
 
