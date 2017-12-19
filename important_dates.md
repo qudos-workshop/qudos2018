@@ -5,7 +5,7 @@ permalink: /important_dates/
 ---
 
 |-------|--------|
-| Full paper submission deadline | Dec 20, 2017 (AoE) |
+| Full paper submission deadline | ~~Dec 20, 2017 (AoE)~~ Jan 15, 2018 (AoE) |
 | Tool paper submission deadline | Dec 20, 2017 (AoE) |
 | Paper notification | Feb 09, 2018 |
 | Camera-ready deadline | Feb 18, 2018 |
