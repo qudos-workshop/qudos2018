@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Accepted Papers
-permalink: /accepted_papers/
+title: Program
+permalink: /program/
 ---
 #### Accepted Papers
 
