@@ -36,13 +36,13 @@ permalink: /program/
 <td class="tg-baqh">9:00<br></td>
 <td class="tg-baqh">10:00</td>
 <td class="tg-baqh">Keynote</td>
-<td class="tg-yw4l">Disaster Recovery and Microservices: The BAC TheoremCesare Pautasso (Università della Svizzera italiana, Switzerland)</td>
+<td class="tg-yw4l">Disaster Recovery and Microservices: The BAC Theorem<br>Cesare Pautasso (Università della Svizzera italiana, Switzerland)</td>
 </tr>
 <tr>
 <td class="tg-baqh">10:00</td>
 <td class="tg-baqh">10:30</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Diagnosis of Privacy and Performance Problems in the Context of Mobile ApplicationsDavid Monschein (Karlsruhe Institute of Technology, German), Robert Heinrich (Karlsruhe Institute of Technology, Germany) and Christoph Heger (NovaTec Consulting GmbH, Germany)</td>
+<td class="tg-yw4l">Diagnosis of Privacy and Performance Problems in the Context of Mobile Applications<br>David Monschein (Karlsruhe Institute of Technology, German), Robert Heinrich (Karlsruhe Institute of Technology, Germany) and Christoph Heger (NovaTec Consulting GmbH, Germany)</td>
 </tr>
 <tr>
 <td class="tg-uqo3"></td>
@@ -56,19 +56,19 @@ permalink: /program/
 <td class="tg-baqh">11:00</td>
 <td class="tg-baqh">11:30</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Towards the Performance Analysis of Apache Tez ApplicationsJose Ignacio Requeno (University of Zaragoza, Span), Iñigo Gascón (University of Zaragoza, Spain) and José Merseguer (University of Zaragoza, Spain)</td>
+<td class="tg-yw4l">Towards the Performance Analysis of Apache Tez Applications<br>Jose Ignacio Requeno (University of Zaragoza, Span), Iñigo Gascón (University of Zaragoza, Spain) and José Merseguer (University of Zaragoza, Spain)</td>
 </tr>
 <tr>
 <td class="tg-baqh">11:30</td>
 <td class="tg-baqh">12:00</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Continuous Integration of Performance ModelManar Mazkatli (Karlsruhe Institute of Technology, Germany) and Anne Koziolek (Karlsruhe Institute of Technology, Germany)</td>
+<td class="tg-yw4l">Continuous Integration of Performance Model<br>Manar Mazkatli (Karlsruhe Institute of Technology, Germany) and Anne Koziolek (Karlsruhe Institute of Technology, Germany)</td>
 </tr>
 <tr>
 <td class="tg-baqh">12:00</td>
 <td class="tg-baqh">12:30<br></td>
 <td class="tg-baqh">Demo Paper<br></td>
-<td class="tg-yw4l">Trace Checking of Streaming Applications through DICE-TraCTMarcello M. Bersani (Politecnico di Milano, Italy), Francesco Marconi (Politecnico di Milano, Italy) and Matteo Rossi (Politecnico di Milano, Italy)</td>
+<td class="tg-yw4l">Trace Checking of Streaming Applications through DICE-TraCT<br>Marcello M. Bersani (Politecnico di Milano, Italy), Francesco Marconi (Politecnico di Milano, Italy) and Matteo Rossi (Politecnico di Milano, Italy)</td>
 </tr>
 <tr>
 <td class="tg-uqo3"></td>
@@ -82,13 +82,13 @@ permalink: /program/
 <td class="tg-baqh">14:00</td>
 <td class="tg-baqh">15:00</td>
 <td class="tg-baqh">Keynote<br></td>
-<td class="tg-yw4l">Model driven software performance engineering - challenges and ways aheadManoj Nambiar (Tata Consultancy Services, India)</td>
+<td class="tg-yw4l">Model driven software performance engineering - challenges and ways ahead<br>Manoj Nambiar (Tata Consultancy Services, India)</td>
 </tr>
 <tr>
 <td class="tg-baqh">15:00</td>
 <td class="tg-baqh">15:30</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Towards Automating Representative Load Testing in Continuous Software EngineeringHenning Schulz (NovaTec Consulting GmbH, Germany), Tobias Angerstein (NovaTec Consulting GmbH, Germany) and André van Hoorn (University of Stuttgart, Germany)</td>
+<td class="tg-yw4l">Towards Automating Representative Load Testing in Continuous Software Engineering<br>Henning Schulz (NovaTec Consulting GmbH, Germany), Tobias Angerstein (NovaTec Consulting GmbH, Germany) and André van Hoorn (University of Stuttgart, Germany)</td>
 </tr>
 <tr>
 <td class="tg-uqo3"></td>
@@ -102,7 +102,7 @@ permalink: /program/
 <td class="tg-baqh">16:00</td>
 <td class="tg-baqh">16:30</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">A Cloud Benchmark Suite Combining Micro and Applications BenchmarksJoel Scheuner (Chalmers | University of Gothenburg, Sweden) and Philipp Leitner (Chalmers | University of Gothenburg, Sweden)</td>
+<td class="tg-yw4l">A Cloud Benchmark Suite Combining Micro and Applications Benchmarks<br>Joel Scheuner (Chalmers | University of Gothenburg, Sweden) and Philipp Leitner (Chalmers | University of Gothenburg, Sweden)</td>
 </tr>
 <tr>
 <td class="tg-baqh">16:30</td>
