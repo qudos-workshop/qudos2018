@@ -21,15 +21,17 @@ permalink: /program/
 .tg .tg-s6z2{text-align:center}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yzt1{background-color:#efefef;vertical-align:top}
+.tg .tg-le8v{background-color:#c0c0c0;vertical-align:top}
+.tg .tg-u1yq{font-weight:bold;background-color:#c0c0c0;text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
 <tr>
-<th class="tg-yw4l"><br></th>
-<th class="tg-baqh">Start</th>
-<th class="tg-baqh">End</th>
-<th class="tg-baqh">Type</th>
-<th class="tg-baqh">Title</th>
+<th class="tg-le8v"><br></th>
+<th class="tg-u1yq">Start</th>
+<th class="tg-u1yq">End</th>
+<th class="tg-u1yq">Type</th>
+<th class="tg-u1yq">Title</th>
 </tr>
 <tr>
 <td class="tg-s6z2" rowspan="2">Session 1<br></td>
