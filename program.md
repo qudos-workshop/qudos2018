@@ -75,40 +75,40 @@ permalink: /program/
 <tr>
 <td class="tg-uqo3"></td>
 <td class="tg-uqo3">12:30</td>
-<td class="tg-uqo3">14:00</td>
+<td class="tg-uqo3">13:30</td>
 <td class="tg-uqo3"></td>
 <td class="tg-yzt1">Lunch</td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="2">Session 3<br>(with LTB)<br></td>
-<td class="tg-baqh">14:00</td>
-<td class="tg-baqh">15:00</td>
+<td class="tg-s6z2" rowspan="2">Session 3<br>(with <a href="http://ltb2018.eecs.yorku.ca/">LTB</a>)<br></td>
+<td class="tg-baqh">13:30</td>
+<td class="tg-baqh">14:30</td>
 <td class="tg-baqh">Keynote<br></td>
 <td class="tg-yw4l">Model driven software performance engineering - challenges and ways ahead<br>Manoj Nambiar (Tata Consultancy Services, India)</td>
 </tr>
 <tr>
+<td class="tg-baqh">14:30</td>
 <td class="tg-baqh">15:00</td>
-<td class="tg-baqh">15:30</td>
-<td class="tg-baqh">Paper</td>
+<td class="tg-baqh">Paper (LTB)</td>
 <td class="tg-yw4l">Towards Automating Representative Load Testing in Continuous Software Engineering<br>Henning Schulz (NovaTec Consulting GmbH, Germany), Tobias Angerstein (NovaTec Consulting GmbH, Germany) and André van Hoorn (University of Stuttgart, Germany)</td>
 </tr>
 <tr>
 <td class="tg-uqo3"></td>
+<td class="tg-uqo3">15:00</td>
 <td class="tg-uqo3">15:30</td>
-<td class="tg-uqo3">16:00</td>
 <td class="tg-uqo3"></td>
 <td class="tg-yzt1">Coffee break<br></td>
 </tr>
 <tr>
-<td class="tg-s6z2" rowspan="2">Session 4<br>(with LTB)<br></td>
+<td class="tg-s6z2" rowspan="2">Session 4<br>(with <a href="http://ltb2018.eecs.yorku.ca/">LTB</a>)<br></td>
+<td class="tg-baqh">15:30</td>
 <td class="tg-baqh">16:00</td>
-<td class="tg-baqh">16:30</td>
-<td class="tg-baqh">Paper</td>
+<td class="tg-baqh">Paper (QUDOS)</td>
 <td class="tg-yw4l">A Cloud Benchmark Suite Combining Micro and Applications Benchmarks<br>Joel Scheuner (Chalmers | University of Gothenburg, Sweden) and Philipp Leitner (Chalmers | University of Gothenburg, Sweden)</td>
 </tr>
 <tr>
-<td class="tg-baqh">16:30</td>
-<td class="tg-baqh">17:30</td>
+<td class="tg-baqh">16:00</td>
+<td class="tg-baqh">17:00</td>
 <td class="tg-baqh">Discussion</td>
 <td class="tg-yw4l">Joint panel discussion</td>
 </tr>
