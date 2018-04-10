@@ -60,7 +60,7 @@ permalink: /program/
 <tr>
 <td class="tg-baqh">12:00</td>
 <td class="tg-baqh">12:30<br></td>
-<td class="tg-baqh">Demo Paper<br></td>
+<td class="tg-baqh">Paper<br></td>
 <td class="tg-yw4l">Continuous Integration of Performance Model<br>Manar Mazkatli (Karlsruhe Institute of Technology, Germany) and Anne Koziolek (Karlsruhe Institute of Technology, Germany)</td>
 </tr>
 <tr>
