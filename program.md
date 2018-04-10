@@ -27,15 +27,15 @@ permalink: /program/
 <tr>
 <td class="tg-s6z2" rowspan="2">Session 1<br></td>
 <td class="tg-baqh">9:00<br></td>
-<td class="tg-baqh">10:00</td>
-<td class="tg-baqh">Keynote</td>
-<td class="tg-yw4l">Disaster Recovery and Microservices: The BAC Theorem<br>Cesare Pautasso (Università della Svizzera italiana, Switzerland)</td>
+<td class="tg-baqh"></td>
+<td class="tg-baqh"></td>
+<td class="tg-yw4l">Opening and Welcome</td>
 </tr>
 <tr>
-<td class="tg-baqh">10:00</td>
+<td class="tg-baqh"></td>
 <td class="tg-baqh">10:30</td>
-<td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Diagnosis of Privacy and Performance Problems in the Context of Mobile Applications<br>David Monschein (Karlsruhe Institute of Technology, German), Robert Heinrich (Karlsruhe Institute of Technology, Germany) and Christoph Heger (NovaTec Consulting GmbH, Germany)</td>
+<td class="tg-baqh">Keynote</td>
+<td class="tg-yw4l">Disaster Recovery and Microservices: The BAC Theorem<br>Cesare Pautasso (Università della Svizzera italiana, Switzerland)</td>
 </tr>
 <tr>
 <td class="tg-uqo3"></td>
@@ -49,19 +49,19 @@ permalink: /program/
 <td class="tg-baqh">11:00</td>
 <td class="tg-baqh">11:30</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Towards the Performance Analysis of Apache Tez Applications<br>Jose Ignacio Requeno (University of Zaragoza, Span), Iñigo Gascón (University of Zaragoza, Spain) and José Merseguer (University of Zaragoza, Spain)</td>
+<td class="tg-yw4l">Diagnosis of Privacy and Performance Problems in the Context of Mobile Applications<br>David Monschein (Karlsruhe Institute of Technology, German), Robert Heinrich (Karlsruhe Institute of Technology, Germany) and Christoph Heger (NovaTec Consulting GmbH, Germany)</td>
 </tr>
 <tr>
 <td class="tg-baqh">11:30</td>
 <td class="tg-baqh">12:00</td>
 <td class="tg-baqh">Paper</td>
-<td class="tg-yw4l">Continuous Integration of Performance Model<br>Manar Mazkatli (Karlsruhe Institute of Technology, Germany) and Anne Koziolek (Karlsruhe Institute of Technology, Germany)</td>
+<td class="tg-yw4l">Towards the Performance Analysis of Apache Tez Applications<br>Jose Ignacio Requeno (University of Zaragoza, Span), Iñigo Gascón (University of Zaragoza, Spain) and José Merseguer (University of Zaragoza, Spain)</td>
 </tr>
 <tr>
 <td class="tg-baqh">12:00</td>
 <td class="tg-baqh">12:30<br></td>
 <td class="tg-baqh">Demo Paper<br></td>
-<td class="tg-yw4l">Trace Checking of Streaming Applications through DICE-TraCT<br>Marcello M. Bersani (Politecnico di Milano, Italy), Francesco Marconi (Politecnico di Milano, Italy) and Matteo Rossi (Politecnico di Milano, Italy)</td>
+<td class="tg-yw4l">Continuous Integration of Performance Model<br>Manar Mazkatli (Karlsruhe Institute of Technology, Germany) and Anne Koziolek (Karlsruhe Institute of Technology, Germany)</td>
 </tr>
 <tr>
 <td class="tg-uqo3"></td>
