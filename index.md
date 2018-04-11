@@ -19,9 +19,6 @@ The QUDOS workshop aims to provide a venue for advances in the state of the art 
 
 QUDOS 2018 is technically sponsored by the Research Group (RG) and the [RG DevOps Performance Working Group](https://research.spec.org/devopswg) of the [Standard Performance Evaluation Corporation (SPEC RG)](http://research.spec.org/), and by the consortium of the [EU project DICE](http://dice-h2020.eu/). The workshop is supported by the [IFIP Working Group on Service Oriented Systems](http://ifip-wg-sos.deib.polimi.it/), and by the [DFG Priority Programme 1593 (SPP1593) "Design For Future - Managed Software Evolution"](http://www.dfg-spp1593.de/), funded by the German Research Foundation (DFG).
 
-<a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <img src="qudos_sponsors.png" alt="Sponsers"
 usemap="#sponsermap">
 
@@ -33,3 +30,6 @@ usemap="#sponsermap">
 <area shape="dfg" coords="27,250,746,346" href="http://www.dfg-spp1593.de/" alt="DFG">
 <area shape="aica" coords="293,360,480,440" href="http://www.aicanet.it/" alt="AICA">
 </map> 
+
+<a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
