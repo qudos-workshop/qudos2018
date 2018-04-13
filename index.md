@@ -24,11 +24,10 @@ usemap="#sponsermap">
 
 <map name="sponsermap">
 <area shape="dice" coords="75,40,340,110" href="http://dice-h2020.eu/" alt="ifip">
-<area shape="spec" coords="442,18,511,125" href="https://research.spec.org/" alt="Spec">
-<area shape="devops" coords="620,18,690,128" href="https://research.spec.org/devopswg" alt="Spec DevOps">
+<area shape="spec" coords="422,18,500,125" href="https://research.spec.org/" alt="Spec">
+<area shape="devops" coords="600,18,670,128" href="https://research.spec.org/devopswg" alt="Spec DevOps">
 <area shape="ifip" coords="310,148,458,247" href="http://ifip-wg-sos.deib.polimi.it/" alt="ifip">
 <area shape="dfg" coords="27,250,746,346" href="http://www.dfg-spp1593.de/" alt="DFG">
-<area shape="aica" coords="293,360,480,440" href="http://www.aicanet.it/" alt="AICA">
 </map> 
 
 <a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
